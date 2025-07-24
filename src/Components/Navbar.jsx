@@ -13,7 +13,7 @@ function Navbar() {
         <div className="container">
           <Link to="/" className="navbar-brand">
             <span style={{ fontSize: "15px", color: "white" }}>
-          <span>S</span>achin<span>Y</span>aduwanshi
+          <span>S</span>achin<span>Y</span>adav
             </span>
           </Link>
           <button
